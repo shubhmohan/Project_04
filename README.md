@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shubhmohan/Project_04/assets/your-asset-id/banner.png" width="80%">
+  <img src=![App Banner](https://github.com/shubhmohan/Project_04/assets/1234567890abcdef/banner.png)] width="80%">
 </p>
 
 ---
@@ -18,11 +18,11 @@
 ✅ **Live Weather Data** via OpenWeatherMap API  
 ✅ **Search Any City** and get accurate results  
 ✅ **Dynamic Weather Icons** based on conditions  
-✅ **Humidity & Windflow Support** 
-✅ **Dark / Light Theme Toggle**  
-✅ Built with **Tkinter GUI** and **Pillow**  
-✅ Error Handling, Default Icons, & Clean UI 
-✅ Built in Python 3.13
+✅ **Humidity & Windflow Support** <br>
+✅ **Dark / Light Theme Toggle** <br> 
+✅ Built with **Tkinter GUI** and **Pillow**  <br>
+✅ Error Handling, Default Icons, & Clean UI <br> 
+✅ Built in Python 3.13 
 
 ---
 
