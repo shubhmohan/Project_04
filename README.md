@@ -30,13 +30,7 @@
 
 | Light Theme | Dark Theme |
 |------------|------------|
-| ![light](https://github.com/shubhmohan/Project_04/assets/your-asset-id/light.png) | ![dark](https://github.com/shubhmohan/Project_04/assets/your-asset-id/dark.png) |
-
----
-
-## Screenshot 📸
-
-![image](https://github.com/user-attachments/assets/5f405073-1a24-4ced-9c4d-49ed14126670) ![image](https://github.com/user-attachments/assets/8b228e90-157e-4bbe-8048-2a332565b13c)
+| ![image](https://github.com/user-attachments/assets/5f405073-1a24-4ced-9c4d-49ed14126670) | ![image](https://github.com/user-attachments/assets/8b228e90-157e-4bbe-8048-2a332565b13c)
 
 ---
 
@@ -56,30 +50,30 @@
    python Weather_Forecast.py
     
 # Folder Structure    
-📁Project_04/
-│
-├── icons/                 # Weather icons
-│   ├── rain.png
-│   ├── clear.png
+📁Project_04/ <br>
+│ <br>
+├── icons/                 # Weather icons <br>
+│   ├── rain.png <br>
+│   ├── clear.png <br>
 │   └── ...
-├── Weather_Forecast.py    # Main Python file
-├── README.md              # You're reading it!
-└── requirements.txt       # Optional: add dependencies
+├── Weather_Forecast.py    # Main Python file <br>
+├── README.md              # You're reading it! <br>
+└── requirements.txt       # Optional: add dependencies <br>
 
 ---
 
     
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 Made with ❤️ by Shubh Mohan <br>
 If you like it, ⭐ the repo and feel free to contribute!
 
 ---
 
 ## 📌Future Update
-🔴 Auto-detect location
-🔴 Add sunrise/sunset time
-🔴 Export to .exe
-🔴 Add background animations
+🔴 Auto-detect location <br>
+🔴 Add sunrise/sunset time <br>
+🔴 Export to .exe <br>
+🔴 Add background animations <br>
 
 
 
